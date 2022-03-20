@@ -10,4 +10,4 @@ Note: This program is meant to be on a Disk/USB
 
 - Unzip Windows_Tools.zip, password is MT1234
 - Launch *start.bat* and allow administrator permissions
-- The navigate through the menu UI and select whichever you like
+- Navigate through the menu UI and select whichever you like
