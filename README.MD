@@ -1,7 +1,4 @@
- __      __  _             _                         _____               _      
- \ \    / / (_)  _ _    __| |  ___  __ __ __  ___   |_   _|  ___   ___  | |  ___
-  \ \/\/ /  | | | ' \  / _` | / _ \ \ V  V / (_-<     | |   / _ \ / _ \ | | (_-<
-   \_/\_/   |_| |_||_| \__,_| \___/  \_/\_/  /__/     |_|   \___/ \___/ |_| /__/
+# Windows Tools
                                                                                 
                                                                                 
 A program made in Windows Batch. Made to enable/disable settings and activate/upgrade Windows/Office, 
